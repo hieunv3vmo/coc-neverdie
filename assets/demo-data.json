@@ -1,0 +1,482 @@
+{
+  "clan": {
+    "tag": "#2G9YRCRV2",
+    "name": "Elite Warriors",
+    "type": "inviteOnly",
+    "description": "A competitive war clan focused on winning clan wars and improving together. Active donations required!",
+    "clanLevel": 18,
+    "clanPoints": 45820,
+    "clanVersusPoints": 38420,
+    "requiredTrophies": 3000,
+    "warFrequency": "always",
+    "warWinStreak": 5,
+    "warWins": 342,
+    "warTies": 12,
+    "warLosses": 128,
+    "isWarLogPublic": true,
+    "warLeague": {
+      "id": 48000015,
+      "name": "Crystal League I"
+    },
+    "members": 48,
+    "labels": [
+      {
+        "id": 56000000,
+        "name": "Clan Wars",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/labels/64/lXaIuoTlfoNOY5fKcQGeT57apz1KFWkN9-raxqIlMbE.png"
+        }
+      }
+    ],
+    "badgeUrls": {
+      "small": "https://api-assets.clashofclans.com/badges/70/example.png",
+      "large": "https://api-assets.clashofclans.com/badges/512/example.png",
+      "medium": "https://api-assets.clashofclans.com/badges/200/example.png"
+    },
+    "clanCapital": {
+      "capitalHallLevel": 8,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 8
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 4
+        }
+      ]
+    },
+    "memberList": [
+      {
+        "tag": "#YPG0VGJ09",
+        "name": "DragonMaster",
+        "role": "leader",
+        "expLevel": 198,
+        "league": {
+          "id": 29000022,
+          "name": "Legend League",
+          "iconUrls": {
+            "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjdo4hYOEE.png"
+          }
+        },
+        "trophies": 5842,
+        "versusTrophies": 4320,
+        "clanRank": 1,
+        "previousClanRank": 1,
+        "donations": 1240,
+        "donationsReceived": 850,
+        "townHallLevel": 16,
+        "builderHallLevel": 10
+      },
+      {
+        "tag": "#ABC123DEF",
+        "name": "WizardKing",
+        "role": "coLeader",
+        "expLevel": 175,
+        "league": {
+          "id": 29000021,
+          "name": "Titan League I",
+          "iconUrls": {
+            "small": "https://api-assets.clashofclans.com/leagues/72/y0xNdZbl90yJJrmkqOSRVhJ7LmVd1EqiHReWxsJKuXI.png"
+          }
+        },
+        "trophies": 5102,
+        "versusTrophies": 3980,
+        "clanRank": 2,
+        "previousClanRank": 2,
+        "donations": 980,
+        "donationsReceived": 720,
+        "townHallLevel": 15,
+        "builderHallLevel": 9
+      },
+      {
+        "tag": "#DEF456GHI",
+        "name": "ArcherQueen",
+        "role": "admin",
+        "expLevel": 162,
+        "league": {
+          "id": 29000020,
+          "name": "Titan League II",
+          "iconUrls": {
+            "small": "https://api-assets.clashofclans.com/leagues/72/default.png"
+          }
+        },
+        "trophies": 4825,
+        "versusTrophies": 3650,
+        "clanRank": 3,
+        "previousClanRank": 4,
+        "donations": 850,
+        "donationsReceived": 690,
+        "townHallLevel": 15,
+        "builderHallLevel": 9
+      },
+      {
+        "tag": "#GHI789JKL",
+        "name": "BarbKing",
+        "role": "admin",
+        "expLevel": 154,
+        "league": {
+          "id": 29000019,
+          "name": "Titan League III",
+          "iconUrls": {
+            "small": "https://api-assets.clashofclans.com/leagues/72/default.png"
+          }
+        },
+        "trophies": 4620,
+        "versusTrophies": 3420,
+        "clanRank": 4,
+        "previousClanRank": 3,
+        "donations": 720,
+        "donationsReceived": 580,
+        "townHallLevel": 14,
+        "builderHallLevel": 9
+      },
+      {
+        "tag": "#JKL012MNO",
+        "name": "PekkaWarrior",
+        "role": "member",
+        "expLevel": 148,
+        "league": {
+          "id": 29000018,
+          "name": "Champion League I",
+          "iconUrls": {
+            "small": "https://api-assets.clashofclans.com/leagues/72/default.png"
+          }
+        },
+        "trophies": 4420,
+        "versusTrophies": 3200,
+        "clanRank": 5,
+        "previousClanRank": 6,
+        "donations": 650,
+        "donationsReceived": 520,
+        "townHallLevel": 14,
+        "builderHallLevel": 8
+      }
+    ]
+  },
+  "war": {
+    "state": "inWar",
+    "teamSize": 30,
+    "attacksPerMember": 2,
+    "preparationStartTime": "20231201T120000.000Z",
+    "startTime": "20231202T120000.000Z",
+    "endTime": "20231203T120000.000Z",
+    "clan": {
+      "tag": "#2G9YRCRV2",
+      "name": "Elite Warriors",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/example.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/example.png"
+      },
+      "clanLevel": 18,
+      "attacks": 45,
+      "stars": 78,
+      "destructionPercentage": 82.5,
+      "members": [
+        {
+          "tag": "#YPG0VGJ09",
+          "name": "DragonMaster",
+          "mapPosition": 1,
+          "townhallLevel": 16,
+          "opponentAttacks": 2,
+          "attacks": [
+            {
+              "attackerTag": "#YPG0VGJ09",
+              "defenderTag": "#ENEMY001",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 1
+            },
+            {
+              "attackerTag": "#YPG0VGJ09",
+              "defenderTag": "#ENEMY002",
+              "stars": 2,
+              "destructionPercentage": 85,
+              "order": 12
+            }
+          ]
+        },
+        {
+          "tag": "#ABC123DEF",
+          "name": "WizardKing",
+          "mapPosition": 2,
+          "townhallLevel": 15,
+          "opponentAttacks": 1,
+          "attacks": [
+            {
+              "attackerTag": "#ABC123DEF",
+              "defenderTag": "#ENEMY003",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 5
+            }
+          ]
+        }
+      ]
+    },
+    "opponent": {
+      "tag": "#ENEMY123",
+      "name": "Rival Clan",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/example2.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/example2.png"
+      },
+      "clanLevel": 17,
+      "attacks": 42,
+      "stars": 65,
+      "destructionPercentage": 76.8
+    }
+  },
+  "capital": {
+    "items": [
+      {
+        "state": "ended",
+        "startTime": "20231127T070000.000Z",
+        "endTime": "20231204T070000.000Z",
+        "capitalTotalLoot": 125420,
+        "raidsCompleted": 5,
+        "totalAttacks": 318,
+        "enemyDistrictsDestroyed": 32,
+        "offensiveReward": 85000,
+        "defensiveReward": 12000,
+        "members": [
+          {
+            "tag": "#YPG0VGJ09",
+            "name": "DragonMaster",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 8420
+          },
+          {
+            "tag": "#ABC123DEF",
+            "name": "WizardKing",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 7850
+          },
+          {
+            "tag": "#DEF456GHI",
+            "name": "ArcherQueen",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 7320
+          },
+          {
+            "tag": "#GHI789JKL",
+            "name": "BarbKing",
+            "attacks": 5,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 6890
+          },
+          {
+            "tag": "#JKL012MNO",
+            "name": "PekkaWarrior",
+            "attacks": 5,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 6420
+          }
+        ]
+      }
+    ]
+  },
+  "player": {
+    "tag": "#YPG0VGJ09",
+    "name": "DragonMaster",
+    "townHallLevel": 16,
+    "townHallWeaponLevel": 5,
+    "expLevel": 198,
+    "trophies": 5842,
+    "bestTrophies": 6124,
+    "warStars": 1842,
+    "attackWins": 3254,
+    "defenseWins": 2145,
+    "builderHallLevel": 10,
+    "versusTrophies": 4320,
+    "bestVersusTrophies": 4580,
+    "versusBattleWins": 1250,
+    "role": "leader",
+    "donations": 1240,
+    "donationsReceived": 850,
+    "clan": {
+      "tag": "#2G9YRCRV2",
+      "name": "Elite Warriors",
+      "clanLevel": 18,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/example.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/example.png"
+      }
+    },
+    "league": {
+      "id": 29000022,
+      "name": "Legend League",
+      "iconUrls": {
+        "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjdo4hYOEE.png"
+      }
+    },
+    "achievements": [
+      {
+        "name": "Bigger Coffers",
+        "stars": 3,
+        "value": 12,
+        "target": 12,
+        "info": "Upgrade a Gold Storage to level 12",
+        "completionInfo": "Highest Gold Storage level: 16",
+        "village": "home"
+      },
+      {
+        "name": "Gold Grab",
+        "stars": 3,
+        "value": 2500000000,
+        "target": 2500000000,
+        "info": "Steal 2,500,000,000 gold",
+        "completionInfo": null,
+        "village": "home"
+      },
+      {
+        "name": "Elixir Escapade",
+        "stars": 3,
+        "value": 2500000000,
+        "target": 2500000000,
+        "info": "Steal 2,500,000,000 elixir",
+        "completionInfo": null,
+        "village": "home"
+      },
+      {
+        "name": "War Hero",
+        "stars": 3,
+        "value": 1842,
+        "target": 1000,
+        "info": "Win 1000 war stars",
+        "completionInfo": null,
+        "village": "home"
+      },
+      {
+        "name": "War League Legend",
+        "stars": 2,
+        "value": 285,
+        "target": 500,
+        "info": "Win 500 war league stars",
+        "completionInfo": null,
+        "village": "home"
+      },
+      {
+        "name": "Games Champion",
+        "stars": 3,
+        "value": 75420,
+        "target": 50000,
+        "info": "Earn 50,000 points in Clan Games",
+        "completionInfo": null,
+        "village": "home"
+      }
+    ],
+    "troops": [
+      {
+        "name": "Barbarian",
+        "level": 11,
+        "maxLevel": 11,
+        "village": "home"
+      },
+      {
+        "name": "Archer",
+        "level": 11,
+        "maxLevel": 11,
+        "village": "home"
+      },
+      {
+        "name": "Giant",
+        "level": 11,
+        "maxLevel": 11,
+        "village": "home"
+      },
+      {
+        "name": "Dragon",
+        "level": 10,
+        "maxLevel": 10,
+        "village": "home"
+      },
+      {
+        "name": "P.E.K.K.A",
+        "level": 11,
+        "maxLevel": 11,
+        "village": "home"
+      },
+      {
+        "name": "Wizard",
+        "level": 11,
+        "maxLevel": 11,
+        "village": "home"
+      },
+      {
+        "name": "Electro Dragon",
+        "level": 6,
+        "maxLevel": 6,
+        "village": "home"
+      },
+      {
+        "name": "Super Dragon",
+        "level": 5,
+        "maxLevel": 5,
+        "village": "home"
+      }
+    ],
+    "heroes": [
+      {
+        "name": "Barbarian King",
+        "level": 90,
+        "maxLevel": 90,
+        "village": "home"
+      },
+      {
+        "name": "Archer Queen",
+        "level": 90,
+        "maxLevel": 90,
+        "village": "home"
+      },
+      {
+        "name": "Grand Warden",
+        "level": 65,
+        "maxLevel": 65,
+        "village": "home"
+      },
+      {
+        "name": "Royal Champion",
+        "level": 40,
+        "maxLevel": 40,
+        "village": "home"
+      }
+    ],
+    "spells": [
+      {
+        "name": "Lightning Spell",
+        "level": 11,
+        "maxLevel": 11,
+        "village": "home"
+      },
+      {
+        "name": "Healing Spell",
+        "level": 10,
+        "maxLevel": 10,
+        "village": "home"
+      },
+      {
+        "name": "Rage Spell",
+        "level": 6,
+        "maxLevel": 6,
+        "village": "home"
+      },
+      {
+        "name": "Freeze Spell",
+        "level": 7,
+        "maxLevel": 7,
+        "village": "home"
+      }
+    ]
+  }
+}
